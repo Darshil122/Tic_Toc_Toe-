@@ -23,7 +23,6 @@ const resetGame = () =>{
 
 }
 
-
 boxes.forEach((box) => {
         box.addEventListener("click",() =>{
             if(turn0){
